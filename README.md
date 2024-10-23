@@ -24,15 +24,13 @@ Este projeto realiza uma análise exploratória detalhada de dados de cartão de
 ├── 📁 data/
 │   └── credit_card_clean_3.csv
 │
-├── 📁 notebooks/
-│   └── EDA_Analise_de_cartao.ipynb
-│
 ├── 📁 images/
 │   ├── boxplot_analysis.png
 │   ├── correlation_matrix.png
 │   └── violin_plots.png
 │
 └── 📄 README.md
+└── EDA_Analise_de_cartao.ipynb
 ```
 
 ## 🛠️ Requisitos
